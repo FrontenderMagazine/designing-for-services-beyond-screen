@@ -1,5 +1,4 @@
 # Designing for Services Beyond the Screen
-# by ANDY POLAINE
 
 The producer-consumer model is so ingrained in our society that we tend to treat
 everything like a product—a one-and-done offering that can be pushed to the
